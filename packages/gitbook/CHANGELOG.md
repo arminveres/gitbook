@@ -1,5 +1,13 @@
 # gitbook
 
+## 0.21.4
+
+### Patch Changes
+
+- b53cb1d: Align styling of PageLinkItem and PageDocumentItem
+- a5ef44a: Better conditional display of page actions
+- f6cf62a: Standardise toggle chevrons across the app
+
 ## 0.21.3
 
 ### Patch Changes
